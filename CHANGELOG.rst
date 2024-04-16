@@ -2,8 +2,8 @@
 Changelog for package robot_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.7.6 (2024-04-16)
+------------------
 * Updating issue templates
 * Fixing angle clamping in Noetic (`#855 <https://github.com/cra-ros-pkg/robot_localization/issues/855>`_)
 * Contributors: Tom Moore
