@@ -2,8 +2,8 @@
 Changelog for package robot_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.7.0 (2024-04-16)
+------------------
 * TF Prefix Bug (`#876 <https://github.com/cra-ros-pkg/robot_localization/issues/876>`_)
 * Update ukf.yaml to match ekf.yaml (`#867 <https://github.com/cra-ros-pkg/robot_localization/issues/867>`_)
   Add missing *_pose_use_child_frame parameter.
