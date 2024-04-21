@@ -2,6 +2,11 @@
 Changelog for package robot_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fixing yaml linking in rolling (`#878 <https://github.com/cra-ros-pkg/robot_localization/issues/878>`_)
+* Contributors: Chris Lalancette
+
 3.6.1 (2024-04-16)
 ------------------
 * TF Prefix Bug (`#876 <https://github.com/cra-ros-pkg/robot_localization/issues/876>`_)
