@@ -27,7 +27,7 @@ find_package(rosidl_default_generators REQUIRED)
 find_package(sensor_msgs REQUIRED)
 find_package(std_srvs REQUIRED)
 find_package(tf2 REQUIRED)
-find_package(tf2_eigen REQUIRED)
+find_package(tf2_eigen REQUIRED)  
 find_package(tf2_geometry_msgs REQUIRED)
 find_package(tf2_ros REQUIRED)
 find_package(Eigen3 REQUIRED)
@@ -103,7 +103,8 @@ target_link_libraries(
   ${library_name}
   ${GeographicLib_LIBRARIES}
   ${EIGEN3_LIBRARIES}
-  yaml-cpp::yaml-cpp
+  yaml-cpp
+
 )
 
 ament_target_dependencies(
